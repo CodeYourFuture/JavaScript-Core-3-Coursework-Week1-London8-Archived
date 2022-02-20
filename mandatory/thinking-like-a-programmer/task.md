@@ -29,12 +29,15 @@ After you've watched these videos I'd like you to answer these questions
 
 ## 1. What do you think the most important quality for a programmer is?
 
-<!-- Write your answer here -->
+I think that the most important skill a good programmer should possess is computational thinking. It lets a programmer think or imagine how a computer thinks and what should be passed to the computer to make it understand our idea and our code.
+
 
 ## 2. When trying to solve a challenge, what should you do first?
 
-<!-- Write your answer here -->
+When you are having a big challenge to solve you should first try to visualize and understand the problem you are approaching and then break it down to smaller challenges to find a solution for those first as you can use it in the further work on the solution for the bigger problem.
+
 
 ## 3. What should you do if you get stuck?
 
-<!-- Write your answer here -->
+When stuck, the first thing could be using the ‘rubber duck’ technique or any other that would let you visualize and say out loud what the problem is and what is your plan of solving it in as simple words as possible. This makes it understandable and helps to find the moment where the problem solving approach we chose is failing and how to fix it. Google research and help from other programmers is also very handy and significant. 
+
