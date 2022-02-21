@@ -1,6 +1,6 @@
 let myLibrary = [];
 
-window.addEventListener("load", function (e) {
+window.addEventListener("load", function (e) { 
   populateStorage();
   render();
 });
@@ -31,30 +31,34 @@ function submit() {
   if (
     title.value == null ||
     title.value == "" ||
+    author.value == null || // were missing this line
+    author.value == "" || // were missing this line
     pages.value == null ||
     pages.value == ""
   ) {
     alert("Please fill all fields!");
     return false;
   } else {
-    let book = new Book(title.value, title.value, pages.value, check.checked);
-    library.push(book);
+    let book = new Book(title.value, author.value, pages.value, check.checked); // title.value were put twice
+    myLibrary .push(book); // was typo of array name liabrary
     render();
   }
 }
 
-function Book(title, author, pages, check) {
-  this.title = title;
-  this.author = author;
-  this.pages = pages;
-  this.check = check;
+class Book { // constructor funciton change to class instead of function
+  constructor(title, author, pages, check) {
+    this.title = title;
+    this.author = author;
+    this.pages = pages;
+    this.check = check;
+  }
 }
 
 function render() {
   let table = document.getElementById("display");
   let rowsNumber = table.rows.length;
-  //delete old table
-  for (let n = rowsNumber - 1; n > 0; n-- {
+  //delete old table , - were missing ) in for loop
+  for (let n = rowsNumber - 1; n > 0; n--) {
     table.deleteRow(n);
   }
   //insert updated row and cells
@@ -76,10 +80,10 @@ function render() {
     changeBut.className = "btn btn-success";
     cell4.appendChild(changeBut);
     let readStatus = "";
-    if (myLibrary[i].check == false) {
-      readStatus = "Yes";
+    if (myLibrary[i].check == true) { // was check == false
+      readStatus = "Yes"; 
     } else {
-      readStatus = "No";
+      readStatus = "No"; 
     }
     changeBut.innerHTML = readStatus;
 
@@ -89,12 +93,12 @@ function render() {
     });
 
     //add delete button to every row and render again
-    let delButton = document.createElement("button");
+    let delBut = document.createElement("button"); // was typo delButton that never been used
     delBut.id = i + 5;
     cell5.appendChild(delBut);
     delBut.className = "btn btn-warning";
     delBut.innerHTML = "Delete";
-    delBut.addEventListener("clicks", function () {
+    delBut.addEventListener("click", function () { // was clicks instead of click
       alert(`You've deleted title: ${myLibrary[i].title}`);
       myLibrary.splice(i, 1);
       render();
