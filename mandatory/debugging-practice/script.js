@@ -38,7 +38,7 @@ function submit() {
     return false;
   } else {
     let book = new Book(title.value, title.value, pages.value, check.checked);
-    library.push(book);
+    myLibrary.push(book);
     render();
   }
 }
@@ -54,7 +54,7 @@ function render() {
   let table = document.getElementById("display");
   let rowsNumber = table.rows.length;
   //delete old table
-  for (let n = rowsNumber - 1; n > 0; n-- {
+  for (let n = rowsNumber - 1; n > 0; n-- ){
     table.deleteRow(n);
   }
   //insert updated row and cells
