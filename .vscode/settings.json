@@ -1,0 +1,7 @@
+{
+  "typescript.validate.enable": true,
+  "javascript.validate.enable": true,
+  "cSpell.words": ["eqeqeq", "Ionicons"],
+  "liveServer.settings.port": 5501,
+  "eslint.enable": true
+}
