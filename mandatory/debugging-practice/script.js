@@ -35,6 +35,7 @@ function submit() {
     let book = new Book(title.value, author.value, pages.value, check.checked);
     myLibrary.push(book);
     render();
+    //The code below will clear all fields after a new book has been added
     title.value = ""
     author.value = ""
     pages.value = ""
