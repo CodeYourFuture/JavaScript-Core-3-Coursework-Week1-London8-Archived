@@ -70,7 +70,7 @@ function render() {
     cell2.innerHTML = myLibrary[i].author;
     cell3.innerHTML = myLibrary[i].pages;
 
-    //add and wait for action for read/unread button
+    //add and wait for action for read/unread button.
     let changeBut = document.createElement("button");
     changeBut.id = i;
     changeBut.className = "btn btn-success";
