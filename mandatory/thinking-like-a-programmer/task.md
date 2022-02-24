@@ -31,10 +31,15 @@ After you've watched these videos I'd like you to answer these questions
 
 <!-- Write your answer here -->
 
+ A great programmer is able to understand problems clearly, break them down into hypotheses, and propose solutions in a coherent manner. They understand concepts quickly, or ask the right questions to help make them clear, and don’t need to have everything written down in a specifications document.
+
 ## 2. When trying to solve a challenge, what should you do first?
 
 <!-- Write your answer here -->
 
+To try to solve a challenge, it is first necessary to properly understand and analyze the problem. The next step is to create the right solution plan.
+
 ## 3. What should you do if you get stuck?
 
 <!-- Write your answer here -->
+I try to figure out what the problem is first(debugging). Then I look at the online documentation on the problem(research on google). If I still can't solve it, I will ask a friend.
