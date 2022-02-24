@@ -29,12 +29,46 @@ After you've watched these videos I'd like you to answer these questions
 
 ## 1. What do you think the most important quality for a programmer is?
 
-<!-- Write your answer here -->
+<!-- Write your answer here 
+
+The ability to solve problems! 
+
+Practice the below answers over and over again on a daily basis or as often as possible. More so the
+problem solving rather than the direct coding itself. Doing math problems or puzzles(e.g. sudoku) or working 
+on algorithms and understanding them. 
+
+Apply the computational thinking process:
+Using the following steps: 
+1 -> Decomposition - breaking a complex problem into smaller, manageable parts.
+2 -> Pattern recognition - identify patterns/trends in a pattern
+3 -> Abstraction - identify specific similarities/differences among similar problems to work toward a solution.
+4 -> Algorithm - developing step by step instructions for solving a problem 
+
+-->
 
 ## 2. When trying to solve a challenge, what should you do first?
 
-<!-- Write your answer here -->
+<!-- Write your answer here 
+
+Have your own framework. 
+
+Understand the problem as opposed to just diving in and trying a few solutions without understanding it properly.
+Draw some type of user interface/diagram, as it helps to visualise what you're working on. Or use the rubber duck approach and 
+talk to it and explain the problem (talking out loud). 
+
+Think of bugs/errors as a challenge not an annoyance because you can learn from it. 
+
+-->
 
 ## 3. What should you do if you get stuck?
 
-<!-- Write your answer here -->
+<!-- Write your answer here 
+
+Divide the problem into smaller problems. It makes it less intimidating and you feel more likely to complete
+the tasks bit by bit. Break it down like a math problem and take it a step at a time as each step is its own 
+task in itself with its own purpose of solving the product. 
+
+If you get stuck and can't figure it out still, then comment out what you've done so far, so you have it as a
+reference and you can start over but still have those references to refer to later if you need. 
+
+-->
