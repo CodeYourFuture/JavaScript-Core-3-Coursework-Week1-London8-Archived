@@ -28,13 +28,22 @@ Take a look at the following resources to learn more about problem solving as ap
 After you've watched these videos I'd like you to answer these questions
 
 ## 1. What do you think the most important quality for a programmer is?
-
+A great programmer is able to understand problems clearly, break them down into hypotheses, and propose solutions in a coherent manner. They understand concepts quickly, or ask the right questions to help make them clear, and don't need to have everything written down in a specifications document
 <!-- Write your answer here -->
 
 ## 2. When trying to solve a challenge, what should you do first?
+Define the problem. What exactly is going on? ...
+Set some goals. ...
+Brainstorm possible solutions. ...
+Rule out any obvious poor options. ...
+Examine the consequences. ...
+Identify the best solutions. ...
+Put your solutions into practice. ...
+How did it go?
 
 <!-- Write your answer here -->
 
 ## 3. What should you do if you get stuck?
+When I  am stuck on a coding problem,I will research it. If I  am  still stuck after researching, get away from the computer and think about the problem.
 
 <!-- Write your answer here -->

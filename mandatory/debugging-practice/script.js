@@ -1,9 +1,11 @@
+debugger;
 let myLibrary = [];
 
-window.addEventListener("load", function (e) {
+window.addEventListener("load", function (e){
   populateStorage();
   render();
-});
+})
+
 
 function populateStorage() {
   if (myLibrary.length == 0) {
@@ -32,7 +34,9 @@ function submit() {
     title.value == null ||
     title.value == "" ||
     pages.value == null ||
-    pages.value == ""
+    pages.value == "" ||
+    author.value==null ||
+    author.value==""
   ) {
     alert("Please fill all fields!");
     return false;
@@ -54,7 +58,7 @@ function render() {
   let table = document.getElementById("display");
   let rowsNumber = table.rows.length;
   //delete old table
-  for (let n = rowsNumber - 1; n > 0; n-- {
+  for (let n = rowsNumber - 1; n > 0; n--) {
     table.deleteRow(n);
   }
   //insert updated row and cells
@@ -89,7 +93,7 @@ function render() {
     });
 
     //add delete button to every row and render again
-    let delButton = document.createElement("button");
+    let delBut = document.createElement("button");
     delBut.id = i + 5;
     cell5.appendChild(delBut);
     delBut.className = "btn btn-warning";
