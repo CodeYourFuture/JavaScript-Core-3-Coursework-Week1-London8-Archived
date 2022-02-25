@@ -36,6 +36,8 @@ function submit() {
   if (
     title.value === null ||
     title.value === "" ||
+    author.value === null ||
+    author.value === "" ||
     pages.value === null ||
     pages.value === ""
   ) {
@@ -81,7 +83,7 @@ function render() {
     changeBut.className = "btn btn-success";
     cell4.appendChild(changeBut);
     let readStatus = "";
-    if (myLibrary[i].check == false) {
+    if (myLibrary[i].check == true) {
       readStatus = "Yes";
     } else {
       readStatus = "No";

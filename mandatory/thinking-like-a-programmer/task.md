@@ -2,7 +2,7 @@
 
 ## 1. Install ESLint
 
-ESLint is what is called an static analysis tool. It checks your code for common mistakes that can impact code quality and styling. 
+ESLint is what is called an static analysis tool. It checks your code for common mistakes that can impact code quality and styling.
 
 If you haven't already you should install it now.
 
@@ -14,8 +14,8 @@ During these past weeks you have gotten a taste of what programming is: the vari
 
 Thinking like a programmer is very similar to thinking like a construction worker:
 
-*  You have to build something and it's up to you to know all the necessary tools and techniques to make that happen, and
-*  You have to solve every problem that comes up along the way (such as things that go wrong, knowing how to choose the right tools for the job and striving to achieve the right goal)
+- You have to build something and it's up to you to know all the necessary tools and techniques to make that happen, and
+- You have to solve every problem that comes up along the way (such as things that go wrong, knowing how to choose the right tools for the job and striving to achieve the right goal)
 
 The second skill, problem solving, is the most important one. If you get good at that, you'll automatically get good at the first.
 
@@ -31,10 +31,28 @@ After you've watched these videos I'd like you to answer these questions
 
 <!-- Write your answer here -->
 
+The most important quality for a programmer is problem solving ability. Problem solving in programming involves computational thinking. Computational thinking is the thought process involved in formulating a problem and expressing its solution in such a way that a computer, machine or human can carry it out.
+
+1. Decomposition: breaking down a complex problem into smaller manageable parts
+2. Pattern recognition: identifying patterns or trends within a problem
+
+3) Abstraction: identifying specific similarities and differences among similar problems to work towards a solution
+4) Algorithm design: developing step-by-step instructions for solving the problem
+
 ## 2. When trying to solve a challenge, what should you do first?
 
 <!-- Write your answer here -->
 
+When trying to solve the challenge you should first try to understand the problem. You can explain the problem out loud to yourself or draw a diagram, then break down the problem into smaller steps that you can tackle as separate tasks. Outline the exact steps needed to solve the problem for example as comments in your code. Breaking down complex problems into smaller parts helps clarify how the bigger problems are dependant on smaller ones being solved.
+
 ## 3. What should you do if you get stuck?
 
 <!-- Write your answer here -->
+
+If you get stuck you should:
+
+1. Debug: Debugging is going step by step through your solution trying to find where you went wrong. You should aim to understand what exactly you told a program to do rather than what you thought you told it to do.
+
+2. Reassess: Take a step back. Look at the problem from another perspective to see if it can be abstracted to a more general level. Another way is starting anew: deleting everything and starting again to see the problem from a fresh perspective.
+
+3. Research: Google if someone already solved similar problem. Don’t look for a solution to the big problem. Only look for solutions to sub-problems and try to combine these solutions to solve a complex problem.
