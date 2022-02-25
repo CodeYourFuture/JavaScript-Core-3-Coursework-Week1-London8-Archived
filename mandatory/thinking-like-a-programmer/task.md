@@ -35,9 +35,8 @@ The most important quality for a programmer is problem solving ability. Problem 
 
 1. Decomposition: breaking down a complex problem into smaller manageable parts
 2. Pattern recognition: identifying patterns or trends within a problem
-
-3) Abstraction: identifying specific similarities and differences among similar problems to work towards a solution
-4) Algorithm design: developing step-by-step instructions for solving the problem
+3. Abstraction: identifying specific similarities and differences among similar problems to work towards a solution
+4. Algorithm design: developing step-by-step instructions for solving the problem
 
 ## 2. When trying to solve a challenge, what should you do first?
 
