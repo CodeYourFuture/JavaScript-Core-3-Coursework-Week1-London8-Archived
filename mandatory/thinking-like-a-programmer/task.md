@@ -29,12 +29,24 @@ After you've watched these videos I'd like you to answer these questions
 
 ## 1. What do you think the most important quality for a programmer is?
 
-<!-- Write your answer here -->
+<!--The most important quality for a programmer is  Problem solving  followed by -
+     Logic thinking 
+     Being patience 
+     Practicing every day-->
 
 ## 2. When trying to solve a challenge, what should you do first?
 
-<!-- Write your answer here -->
+<!-- Understand the challenge
+     Brake the problem into smaller chunks 
+     Start solving the problem step by step -->
 
 ## 3. What should you do if you get stuck?
 
-<!-- Write your answer here -->
+<!--Debug,
+    Console.log,
+    Review your code, 
+    Google,
+    Rubber Duck, 
+    Ask for help, 
+    Don't delete everything,uncomment and keep references.
+     -->
