@@ -30,11 +30,12 @@ After you've watched these videos I'd like you to answer these questions
 ## 1. What do you think the most important quality for a programmer is?
 
 <!-- Write your answer here -->
-
+Understand the problem and solve the problem.
 ## 2. When trying to solve a challenge, what should you do first?
 
 <!-- Write your answer here -->
-
+Understand the problem talk to rubber duck about problem and divide the problem to smaller once.
 ## 3. What should you do if you get stuck?
 
 <!-- Write your answer here -->
+Get unstuck, fix Bugs/ Errors, comment something you don't wanted it don't remove it. talk to rubber duck divided to small peaces 
