@@ -7,7 +7,7 @@ window.addEventListener("load", function (e) {
 
 function populateStorage() {
   if (myLibrary.length === 0) {
-    let book1 = new Book("Robison Crusoe", "Daniel Defoe", "252", true);
+    let book1 = new Book("Robinson Crusoe", "Daniel Defoe", "252", true);
     let book2 = new Book(
       "The Old Man and the Sea",
       "Ernest Hemingway",
@@ -28,12 +28,7 @@ const check = document.getElementById("check");
 //check the right input from forms and if its ok -> add the new book (object in array)
 //via Book function and start render function
 function submit() {
-  if (
-    title.value === null ||
-    title.value === "" ||
-    pages.value === null ||
-    pages.value === ""
-  ) {
+  if (title.value === null || title.value === "" || pages.value === null || pages.value === "") {
     alert("Please fill all fields!");
     return false;
   } else {
