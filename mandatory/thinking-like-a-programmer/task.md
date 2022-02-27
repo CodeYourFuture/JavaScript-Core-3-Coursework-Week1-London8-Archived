@@ -28,13 +28,16 @@ Take a look at the following resources to learn more about problem solving as ap
 After you've watched these videos I'd like you to answer these questions
 
 ## 1. What do you think the most important quality for a programmer is?
-
-<!-- Write your answer here -->
+The ability to solve problems.
 
 ## 2. When trying to solve a challenge, what should you do first?
-
-<!-- Write your answer here -->
+1. Understand the problem.
+2. Divide the problem in smaller pieces.
+think about the problem before writing code and then write pseudo code in plain english then convert it to code.
 
 ## 3. What should you do if you get stuck?
 
-<!-- Write your answer here -->
+1. debug
+2. use console.log
+3. delete everything or comment out all code and start from the beginning
+4. take a step back, go for a walk and come back after sometime, try again
