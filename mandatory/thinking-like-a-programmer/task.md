@@ -2,7 +2,7 @@
 
 ## 1. Install ESLint
 
-ESLint is what is called an static analysis tool. It checks your code for common mistakes that can impact code quality and styling. 
+ESLint is what is called an static analysis tool. It checks your code for common mistakes that can impact code quality and styling.
 
 If you haven't already you should install it now.
 
@@ -14,8 +14,8 @@ During these past weeks you have gotten a taste of what programming is: the vari
 
 Thinking like a programmer is very similar to thinking like a construction worker:
 
-*  You have to build something and it's up to you to know all the necessary tools and techniques to make that happen, and
-*  You have to solve every problem that comes up along the way (such as things that go wrong, knowing how to choose the right tools for the job and striving to achieve the right goal)
+- You have to build something and it's up to you to know all the necessary tools and techniques to make that happen, and
+- You have to solve every problem that comes up along the way (such as things that go wrong, knowing how to choose the right tools for the job and striving to achieve the right goal)
 
 The second skill, problem solving, is the most important one. If you get good at that, you'll automatically get good at the first.
 
@@ -29,12 +29,23 @@ After you've watched these videos I'd like you to answer these questions
 
 ## 1. What do you think the most important quality for a programmer is?
 
+Problem solving
+
 <!-- Write your answer here -->
 
 ## 2. When trying to solve a challenge, what should you do first?
 
+First understand the problem
+Planing for that problem
+Then divide it into the smaller problems.
+Get unstuck
+
 <!-- Write your answer here -->
 
 ## 3. What should you do if you get stuck?
+
+1- Debug
+2- Reassess
+3-research
 
 <!-- Write your answer here -->
