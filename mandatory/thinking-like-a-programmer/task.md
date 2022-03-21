@@ -29,12 +29,16 @@ After you've watched these videos I'd like you to answer these questions
 
 ## 1. What do you think the most important quality for a programmer is?
 
-<!-- Write your answer here -->
+<!---->  A great programmer is able to:
+<> understand problems clearly,
+<> break them down into hypothesis,
+<> propose solutions in a coherent manner. 
 
 ## 2. When trying to solve a challenge, what should you do first?
 
-<!-- Write your answer here -->
+<!-- -->In trying to solve a challenge, it is important to clearly understand the problem/task and then analyze the problem and break into smaller parts. The next step is to create the right solution plan.
 
 ## 3. What should you do if you get stuck?
 
-<!-- Write your answer here -->
+<!-- --> I will try to figure out what the problem by debugging.
+I can look at the online documentation on the problem(research on google). I can also ask a mentor or friend.
