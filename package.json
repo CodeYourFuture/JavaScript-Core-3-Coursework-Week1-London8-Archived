@@ -1,0 +1,22 @@
+{
+  "name": "javascript-core-3-coursework-week1-london8",
+  "version": "1.0.0",
+  "description": "The exercises are split into two folders: `mandatory` and `extra`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacint-M-David/JavaScript-Core-3-Coursework-Week1-London8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacint-M-David/JavaScript-Core-3-Coursework-Week1-London8/issues"
+  },
+  "homepage": "https://github.com/Jacint-M-David/JavaScript-Core-3-Coursework-Week1-London8#readme",
+  "devDependencies": {
+    "eslint": "^8.12.0"
+  }
+}
