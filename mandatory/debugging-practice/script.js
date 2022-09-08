@@ -31,6 +31,8 @@ function submit() {
   if (
     title.value == null ||
     title.value == "" ||
+    author.value == null ||
+    author.value == "" ||
     pages.value == null ||
     pages.value == ""
   ) {
@@ -41,7 +43,7 @@ function submit() {
     myLibrary.push(book);
     render();
     title.value = "";
-    pages.value = "";
+    (author.value = ""), (pages.value = "");
     check.value = "";
   }
 }
