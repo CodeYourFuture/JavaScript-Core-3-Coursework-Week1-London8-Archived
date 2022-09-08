@@ -29,12 +29,12 @@ After you've watched these videos I'd like you to answer these questions
 
 ## 1. What do you think the most important quality for a programmer is?
 
-<!-- Write your answer here -->
+<!-- Write your answer here --> To be a good problem solver because you create programs to solve problems, you also have to solve problems within your code.
 
 ## 2. When trying to solve a challenge, what should you do first?
 
-<!-- Write your answer here -->
+<!-- Write your answer here --> First find out what the problem is, then plan possible solutions and how to fix it.
 
 ## 3. What should you do if you get stuck?
 
-<!-- Write your answer here -->
+<!-- Write your answer here --> First take a moment to clear your head maybe you are looking at the problem for too long, and then take a look at it from a different angle and if need be get help.
