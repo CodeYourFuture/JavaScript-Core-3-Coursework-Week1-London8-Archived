@@ -1,5 +1,4 @@
-var myLibrary;
-myLibrary = [];
+let myLibrary = [];
 window.addEventListener("load", function (e) {
   populateStorage();
   render(); 
