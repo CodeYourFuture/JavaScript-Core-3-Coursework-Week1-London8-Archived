@@ -13,8 +13,8 @@ My website should be able to:
 1. Website loads but nothing works in my javascript
 2. Website loads but nothing happens
 3. Error in console when you try to add a book
-4. It uses the title name as the author name
-5. Delete button is broken
+4. It uses the title name as the author name //done?
+5. Delete button is broken //done
 6. When I add a book that I say I've read - it saves the wrong answer
 
 I think there are other some other small bugs in my code...but I'm lazy so I can't fix them all.
