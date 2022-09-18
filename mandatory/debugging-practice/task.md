@@ -17,6 +17,6 @@ My website should be able to:
 5. Delete button is broken
 6. When I add a book that I say I've read - it saves the wrong answer
 
-I think there are other some other small bugs in my code...but I'm lazy so I can't fix them all.
+I think there are some other small bugs in my code...but I'm lazy so I can't fix them all.
 
 I wish somebody would help me!
