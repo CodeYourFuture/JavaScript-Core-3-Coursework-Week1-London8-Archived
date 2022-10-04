@@ -40,4 +40,4 @@ One should try to understand first the problem by being able to explain it,
 ## 3. What should you do if you get stuck?
 
 <!-- Write your answer here -->
-If ever I get stuck, I would prefer to reduce the sub-problem into the simplest forms from which I try again to find the solution,  
+If ever I get stuck, I would prefer to reduce the sub-problems into the simplest forms from which I'll try again to find the solution,  
